@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Surya Prasanth 
 - 👀 I’m interested in C,C++ , Java , Python.
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Small Codes
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @prasanth._.roy
 - 😄 Pronouns: Prashuu
 - ⚡ Fun fact: You are a diamond 💎 
